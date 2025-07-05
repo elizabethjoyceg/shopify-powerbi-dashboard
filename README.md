@@ -29,7 +29,7 @@ Designed and developed a fully interactive Power BI dashboard to analyze Shopify
 - 📄 `Shopify_Sales_Dashboard.pbix` – https://github.com/elizabethjoyceg/shopify-powerbi-dashboard/blob/main/Shopify%20Sales%20Intelligence%20%26%20Behavioral%20Insights.pbix  
 - 📊 `shopify_sales_data.csv` – https://github.com/elizabethjoyceg/shopify-powerbi-dashboard/blob/main/Shopify%20Sales.xlsx
 - 📸 Dashboard Screenshot:  
-  Dashboard.png 
+  ![Dashboard Preview](Dashboard.png) 
 
 ## 🔗 Live Repository  
 Explore the full project:  
